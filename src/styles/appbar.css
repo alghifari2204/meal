@@ -1,0 +1,11 @@
+app-bar {
+    display: block;
+    padding: 16px;
+    width: 100%;
+    background-color: #ff884d;
+    color: black;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    text-align: center;
+    border-radius: 5px;
+  }
+  

@@ -1,0 +1,20 @@
+@import "appbar.css";
+@import "meallist.css";
+@import "searchbar.css";
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  background: linear-gradient(to right, #ffcc99 0%, #ff9966 100%);
+}
+
+main {
+  width: 100%;
+  max-width: 800px;
+  margin: 32px auto;
+}
